@@ -1,0 +1,6 @@
+- debug: msg="role_var={{role_var}}"
+- debug: msg="nested_role_var={{nested_role_var}}"
+- debug: msg="site_var={{site_var}}"
+- debug: msg="host_var={{host_var}}"
+- debug: msg="group_var={{group_var}}"
+- debug: msg="group_all_var={{group_all_var}}"

@@ -1,0 +1,3 @@
+role_var: "role"
+site_var: "site"
+host_var: "192.168.1.2"
