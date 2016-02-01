@@ -1,0 +1,5 @@
+role_var:  "role_default"
+site_var:  "role_default"
+host_var:  "role_default"
+group_var: "role_default"
+role_default_var: "role_default"
